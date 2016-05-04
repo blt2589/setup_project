@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-setup_project.py
+setup_project.py -- GIS Project Setup Utility
 Garin Wally; May 2014/May 2016
 
 This script creates a project folder-environment for GIS projects as follows:
